@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jaesik Yoon working in SAP as a Machine Learning Developer. Now I am working with Professor Sungjin Ahn at Rutgers University for ML research, particularly unsupervised learning and object-oriented learning. Besides career, I am a husband of beautiful lady and a dad of very curious son who always gives me intuition how human learns the world.
+I am Jaesik Yoon working in SAP as a Machine Learning Developer. Now I am working with Professor [Sungjin Ahn](https://sungjinahn.com/) at Rutgers University for ML research, particularly unsupervised learning and object-oriented learning. Besides career, I am a husband of beautiful lady and a dad of very curious son who always gives me intuition how human learns the world.
 
 #### News
 
