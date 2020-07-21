@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Jaesik Yoon working in SAP as a Machine Learning Developer. Now I am working with Professor Sungjin Ahn at Rutgers University for ML research, particularly unsupervised learning and object-oriented learning. Besides career, I am a husband of beautiful lady and a dad of very curious son who always gives me intuition how human learns the world.
+
+#### News
+
+- The [Robustifying Sequential Neural Processes](https://proceedings.icml.cc/static/paper_files/icml/2020/4915-Paper.pdf) code is released. [code](https://github.com/jsikyoon/ASNP-RMR)
+- Our paper, Robustifying Sequential Neural Processes got accepted in ICML 2020. [pdf](https://proceedings.icml.cc/static/paper_files/icml/2020/4915-Paper.pdf)
+
+
 <!--
 **jsikyoon/jsikyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
