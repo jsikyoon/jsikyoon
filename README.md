@@ -23,7 +23,7 @@ I am Jaesik Yoon working in SAP as a Machine Learning Developer. Now I am workin
   
 - Bayesian Model-Agnostic Meta Learning  
   {**Jaesik Yoon**, Taesup Kim}, Ousmane Dia, Sungwoong Kim, Yosua Bengio, Sungjin Ahn  
-  [pdf](https://papers.nips.cc/paper/7963-bayesian-model-agnostic-meta-learning.pdf) / [spotlight talk](https://www.youtube.com/watch?v=z5EZzh63KXI&t=143s) / [code1](https://github.com/jsikyoon/bmaml) / [code2](https://github.com/jsikyoon/bmaml_rl)
+  NeurIPS 2018 *SPOTLIGHT* [pdf](https://papers.nips.cc/paper/7963-bayesian-model-agnostic-meta-learning.pdf) / [spotlight talk](https://www.youtube.com/watch?v=z5EZzh63KXI&t=143s) / [code1](https://github.com/jsikyoon/bmaml) / [code2](https://github.com/jsikyoon/bmaml_rl)
 
 - A hierarchical-structured dictionary learning for image classification  
   **Jaesik Yoon**, Jinho Choi, Chang Dong Yoo  
