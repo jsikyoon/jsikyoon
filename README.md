@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jaesik Yoon. I am currently working as a machine learning developer in SAP and usually researching a variety of ways to improve generality of Artificial Intelligence. This github is used to do that like sharing our proposed models or reproduced sourcecode of published papers. Hope you and your family be healthy who visits here and my logs are helpful! My details for professional works is in [My HomePage] (https://sites.google.com/view/jaesikyoon/home) / [Google Scholar](https://scholar.google.com/citations?user=qboyyIAAAAAJ).
+I am Jaesik Yoon. I am currently working as a machine learning developer in SAP and usually researching a variety of ways to improve generality of Artificial Intelligence. This github is used to do that like sharing our proposed models or reproduced sourcecode of published papers. Hope you and your family be healthy who visits here and my logs be helpful! My details for professional works is in [My HomePage] (https://sites.google.com/view/jaesikyoon/home) / [Google Scholar](https://scholar.google.com/citations?user=qboyyIAAAAAJ).
 
 #### News
 
