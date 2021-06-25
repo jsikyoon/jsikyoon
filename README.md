@@ -4,6 +4,7 @@ I am Jaesik Yoon. I am currently working as a machine learning developer in SAP 
 
 #### News
 
+- Our paper, Generative Video Transformer: Can Objects be the Words? is accepted in ICML 2021!
 - The [Robustifying Sequential Neural Processes](https://proceedings.icml.cc/static/paper_files/icml/2020/4915-Paper.pdf) code is released. [code](https://github.com/jsikyoon/ASNP-RMR)
 - Our paper, Robustifying Sequential Neural Processes got accepted in ICML 2020. [pdf](https://proceedings.icml.cc/static/paper_files/icml/2020/4915-Paper.pdf)
   
