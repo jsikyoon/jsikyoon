@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Yoon, Jaesik (윤재식). I am currently working as a senior machine learning developer in SAP and usually researching a variety of ways to improve generality of Artificial Intelligence. This github is used to do that like sharing our proposed models or reproduced sourcecode of published papers. Hope you and your family be healthy who visits here and my logs be helpful! The details for works are in [My HomePage](https://jsikyoon.com) / [Google Scholar](https://scholar.google.com/citations?user=qboyyIAAAAAJ).
+I am Yoon, Jaesik (윤재식). I am currently working as a senior machine learning developer in SAP and usually researching a variety of ways to improve generality of Artificial Intelligence. This github is used to do that like sharing our proposed models or reproduced sourcecode of published papers. Hope you and your family be healthy who visits here and my logs be helpful! The details for works are in [My HomePage](https://jaesikyoon.com) / [Google Scholar](https://scholar.google.com/citations?user=qboyyIAAAAAJ).
   
 <!--
 **jsikyoon/jsikyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
